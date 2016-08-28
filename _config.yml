@@ -1,13 +1,13 @@
 # Setup
 title:        Future Fry
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      Lets try !!
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Ranjeet
-  url:        http://yourhomepage.com 
+  url:        https://github.com/ranjeet-floyd
 
 # Gems
 gems:
